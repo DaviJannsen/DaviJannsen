@@ -27,8 +27,6 @@ Computer Science Student • Backend in Progress • UECE
 #### DevOps & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -40,7 +38,5 @@ Computer Science Student • Backend in Progress • UECE
 <hr>
 
 <div align="center">
-
-> “Hello Julliet”
 
 </div>
