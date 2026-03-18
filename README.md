@@ -5,7 +5,9 @@ Computer Science Student • Backend in Progress • UECE
 
 <br>
 
-<img align="right" width="300" src="img/frieren.gif">
+<p align="center">
+  <img style="position: relative; top: 60px;" width="400" src="img/frieren.gif">
+</p>
 
 ## 🛠️ Skills
 
