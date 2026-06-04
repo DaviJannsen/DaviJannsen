@@ -1,41 +1,45 @@
-<h2 align="center">Hi 👋, I'm Davi Jannsen</h2>
-<p align="center">
-Computer Science Student • Backend in Progress • UECE
-</p>
-
-<br>
+<h2 align="center">Davi Jannsen</h2>
 
 <p align="center">
-  <img style="position: relative; top: 60px;" width="400" src="img/frieren.gif">
+Computer Science Student • Software Developer in Progress • UECE
 </p>
 
-## 🛠️ Skills
+---
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## Tech Stack
 
-#### Data Science / AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,spring,hibernate,maven,postgres,sqlite,docker,linux,git,github,vscode,idea,postman&perline=8)](https://skillicons.dev)
 
-#### Database / Backend
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+</p>
 
-#### DevOps & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-#### Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+---
 
-<br clear="left"/>
+## Currently Learning
 
-<hr>
+- Spring Boot
+- REST APIs
+- Software Architecture
+- Docker
+- Data Structures & Algorithms
 
+---
+
+## GitHub Stats
 <div align="center">
-
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviJannsen&theme=tokyonight&hide_border=true" />
 </div>
+##  About Me
+
+- Computer Science student at UECE
+- Focused on Java Backend Development
+- Learning Spring Boot and Software Architecture
+- Experience with Python, NumPy and Pandas
+- Linux user (Fedora)
+- Always building and learning
