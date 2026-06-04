@@ -1,7 +1,7 @@
 <h2 align="center">Davi Jannsen</h2>
 
 <p align="center">
-Computer Science Student • Software Developer in Progress • UECE
+  Computer Science Student • Software Developer in Progress • UECE
 </p>
 
 ---
@@ -9,9 +9,9 @@ Computer Science Student • Software Developer in Progress • UECE
 ## Tech Stack
 
 <p align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,spring,hibernate,maven,postgres,sqlite,docker,linux,git,github,vscode,idea,postman&perline=8)](https://skillicons.dev)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,python,spring,hibernate,maven,postgres,sqlite,docker,linux,git,github,vscode,idea,postman&perline=8" />
+  </a>
 </p>
 
 <p align="center">
@@ -31,11 +31,7 @@ Computer Science Student • Software Developer in Progress • UECE
 
 ---
 
-## GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviJannsen&theme=tokyonight&hide_border=true" />
-</div>
-##  About Me
+## About Me
 
 - Computer Science student at UECE
 - Focused on Java Backend Development
@@ -43,3 +39,14 @@ Computer Science Student • Software Developer in Progress • UECE
 - Experience with Python, NumPy and Pandas
 - Linux user (Fedora)
 - Always building and learning
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DaviJannsen&theme=tokyonight&hide_border=true"
+  />
+</div>
